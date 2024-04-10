@@ -52,3 +52,6 @@ See [Configuring Ruff](https://github.com/astral-sh/ruff/blob/main/docs/configur
   with:
     args: 'format --check'
 ```
+
+SonarQube
+https://sesvc.shell.com/dashboard?id=com.shell.isort-action&selectedTutorial=github-actions
